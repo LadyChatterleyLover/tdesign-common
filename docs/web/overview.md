@@ -212,6 +212,7 @@ spline: explain
       <p class="name">Textarea 多行文本框</p>
     </a>
   </div>
+
   <div class="image-wrapper">
     <a class="item" href="./components/transfer">
       <img class="__light__" src="https://tdesign.gtimg.com/site/doc/doc-transfer.png" />
@@ -333,6 +334,13 @@ spline: explain
       <img class="__light__" src="https://tdesign.gtimg.com/site/doc/doc-tag.png" />
       <img class="__dark__" src="https://tdesign.gtimg.com/site/doc/doc-tag-dark.png" />
       <p class="name">Tag 标签</p>
+    </a>
+  </div>
+    <div class="image-wrapper">
+    <a class="item" href="./components/timeline">
+      <img class="__light__" src="https://tdesign.gtimg.com/site/doc/doc-textarea.png" />
+      <img class="__dark__" src="https://tdesign.gtimg.com/site/doc/doc-textarea-dark.png" />
+      <p class="name">Timeline 时间轴</p>
     </a>
   </div>
   <div class="image-wrapper">
